@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf39bc0c-ce1a-4e49-b64e-9dc6e911deb7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2B93yXmVOx2LAnwPRAFrThqvojo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/kubernets" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\projects\devops\cicd\kubernets" />
+      <recent name="E:\projects\devops\cicd\sonarqube" />
+      <recent name="E:\projects\devops\cicd\jenkins" />
+      <recent name="E:\projects\devops\cicd\jenkins\pipelines" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf39bc0c-ce1a-4e49-b64e-9dc6e911deb7" name="Default Changelist" comment="" />
+      <created>1656304728466</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656304728466</updated>
+      <workItem from="1656304731854" duration="1556000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="659" y="294" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1656304802281">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state x="659" y="294" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1030@0.0.1920.1030" timestamp="1656304802281" />
+  </component>
+</project>
